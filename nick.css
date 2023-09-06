@@ -1,0 +1,30 @@
+h1 {
+    text-align:center;
+    background-color: aqua;
+}
+h3{
+    font-style: oblique;
+    background-color: pink;
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+strong {
+    font-size: larger;
+}
+
+body {
+    background-color: purple;
+}
+.imagem1 {
+    width: 20;
+}
+.motor {
+    background-color: forestgreen
+
+}
+.carro {
+   color: aqua;
+}
