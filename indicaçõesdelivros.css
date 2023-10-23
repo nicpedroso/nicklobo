@@ -1,24 +1,4 @@
-h1 {
-    text-align:center;
-    background-color: pink;
-}
-h2{
-    font-style: oblique;
-    background-color: papayawhip;
-}
-
-p {
-    text-align: center;
-    font-size: medium;
-}
-strong {
-    font-size: larger;
-}
-
-body {
-    background-color: plum;
-}
-a{
+nav a{
     text-transform: uppercase;
     color: darkorchid;
     font-weight: 300;
@@ -80,6 +60,6 @@ a{
 }
 
 body {
-  background-color: aquamarine;
+  background-color: pink;
   text-align:center;
 }
