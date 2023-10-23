@@ -2,6 +2,10 @@ h1 {
     text-align:center;
     background-color: pink;
 }
+p {
+    text-align: center;
+    font-size: medium;
+}
 nav a{
     text-transform: uppercase;
     color: darkorchid;
