@@ -18,7 +18,7 @@ strong {
 body {
     background-color: plum;
 }
-nav a{
+a{
     text-transform: uppercase;
     color: darkorchid;
     font-weight: 300;
