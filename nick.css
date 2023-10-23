@@ -19,6 +19,18 @@ strong {
 body {
     background-color: plum;
 }
+nav a{
+    text-transform: uppercase;
+    color: darkorchid;
+    font-weight: 300;
+    font-size: 100%;
+    text-decoration: none ;
+    border-color: pink;
+    border-width: 5px;
+    border-style: solid;
+    text-align:center
+}
+
 .imagem1 {
     width: 2;
     width: 2;
