@@ -6,6 +6,13 @@ p {
     text-align: center;
     font-size: medium;
 }
+strong {
+    font-size: larger;
+}
+
+body {
+    background-color: plum;
+}
 nav a{
     text-transform: uppercase;
     color: darkorchid;
