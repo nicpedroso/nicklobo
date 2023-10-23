@@ -10,9 +10,43 @@ nav a{
 }
 
 .imagem1 {
-  width: 20%
+  width: 5;
+  width: 5;
+  display: inline-block;
+  padding: 5%;
+  margin-right: 5%;
+  color: fuchsia;
+  padding: 5%;
+  border-color: pink;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 30px 30px 30px 30px;
 }
-
+.imagem2 {
+  width: 5;
+  width: 5;
+  display: inline-block;
+  padding: 5%;
+  margin-right: 5%;
+  color: fuchsia;
+  padding: 5%;
+  border-color: pink;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 30px 30px 30px 30px;
+}
+.imagem3 {
+  width: 5;
+  display: inline-block;
+  padding: 5%;
+  margin-right: 5%;
+  color: fuchsia;
+  padding: 5%;
+  border-color: pink;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 30px 30px 30px 30px;
+}
 .centralizar {
   text-align: center;
   display: inline-block;
@@ -22,7 +56,7 @@ nav a{
   border-color: pink;
   border-width: 30px;
   border-style: solid;
-  backgound-color: pink;
+  background-color: pink;
 }
 
 body {
