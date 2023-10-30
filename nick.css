@@ -104,3 +104,7 @@ body {
     border-style: solid; 
     backgound-color: pink;
 }
+nav a: hover {
+    color: orange;
+    text-decoration: underline;
+}
